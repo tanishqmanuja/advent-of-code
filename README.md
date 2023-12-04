@@ -6,7 +6,7 @@ Well, well, look who stumbled into the Node.js utopia! This is where I showcase 
 
 ```bash
 cd day01
-node index.js
+node index.mjs
 ```
 
 Ensure Node.js, the chosen one, is installed on your machine. Follow any cryptic instructions buried in the code.
